@@ -1,70 +1,80 @@
 # Hi, I'm Amal A P 👋
 
 🎯 **Data Scientist | Machine Learning & GenAI Engineer**  
-💡 Passionate about building scalable, cost-efficient, and real-world AI solutions  
-📍 India
+💡 Building scalable, cost-efficient, real-world AI solutions  
+📍 India  
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Science professional with hands-on experience in **Machine Learning, Deep Learning, NLP, and Generative AI**. I enjoy working across the full data lifecycle—from data preprocessing and model development to building production-ready GenAI systems.
+I am a Data Science professional with hands-on experience in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
+I enjoy working across the full lifecycle—from data preprocessing and model building to deploying **production-ready GenAI systems**.
 
-My recent work focuses on **Retrieval-Augmented Generation (RAG)**, local LLM inference, and designing **cost-optimized AI applications** that deliver measurable business impact.
+My recent work focuses on **RAG architectures, local LLM inference**, and designing **cloud-independent, cost-optimized AI solutions**.
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 
-**Programming:**  
-- Python, SQL  
+### 🔹 Programming & Databases
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-**Machine Learning:**  
-- Scikit-learn, Regression, Classification, Clustering  
-- Feature Engineering, Model Evaluation  
+### 🔹 Machine Learning & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
-**Deep Learning:**  
-- TensorFlow, CNNs, ANNs, Transfer Learning  
+### 🔹 NLP & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-0FA36B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLaMA-5A5A5A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
+</p>
 
-**NLP & GenAI:**  
-- LangChain, Llama, RAG, Transformers  
-- Tokenization, Prompt Engineering, Vector Search  
-- FAISS, ChromaDB  
+### 🔹 Data & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-**Tools & Platforms:**  
-- Git, GitHub, Jupyter, VS Code, PyCharm  
-- Power BI, MySQL, AWS  
-- Streamlit, FastAPI  
+### 🔹 Frameworks, Tools & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Intelligent RAG Documentation Assistant
-- Built a production-ready RAG chatbot using **LangChain, Llama, FAISS**
-- Implemented local LLM inference, reducing cost to **$0/month**
-- Reduced information retrieval time by **80%**
-- Supports multi-format documents (PDF, Markdown, TXT)
+- Built production-ready RAG chatbot using **LangChain, LLaMA, FAISS**
+- Eliminated cloud dependency → **$0/month cost**
+- Reduced information lookup time by **80%**
 
-🔗 [Project Link](https://github.com/amal862001/Gen-AI/tree/main/rag-documentation-chatbot)
+🔗 https://github.com/amal862001/Gen-AI/tree/main/rag-documentation-chatbot
 
 ---
 
 ### 🔹 AI-Powered Cold Email Generator
-- Automated job scraping and personalized email generation using **RAG**
-- Achieved <150ms retrieval using **ChromaDB**
-- Reduced manual email writing time by **90%**
+- Automated job scraping & personalized email drafting
+- <150ms retrieval using **ChromaDB**
+- Reduced manual effort by **90%**
 
-🔗 [Project Link](https://github.com/amal862001/Gen-AI/tree/main/Cold_Email_Generator)
-
----
-
-### 🔹 NLP Subject Classification System
-- Built end-to-end NLP pipeline using TF-IDF and classical ML models
-- Improved F1-score by **30%**
-- Reduced inference time by **40%**
-
-🔗 [Project Link](https://github.com/amal862001/machine-learning-projects)
+🔗 https://github.com/amal862001/Gen-AI/tree/main/Cold_Email_Generator
 
 ---
 
@@ -72,24 +82,17 @@ My recent work focuses on **Retrieval-Augmented Generation (RAG)**, local LLM in
 
 **Data Science Intern — Luminar Technolab**  
 - Improved ML model performance by **20–40%**
-- Built data preprocessing pipelines reducing cleanup time by **60%**
-- Developed ML & DL models for real-world datasets
+- Optimized preprocessing pipelines → **60% faster**
+- Built ML & DL prototypes for real datasets
 
 ---
 
-## 📜 Certifications
+## 📫 Connect With Me
 
-- IBM Python for Data Science  
-- Machine Learning & Data Science Bootcamp  
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: **amalapsenior@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/amal-a-p](https://linkedin.com/in/amal-a-p)  
-- 🌐 Portfolio: [amal862001.github.io](https://amal862001.github.io)
+- 📧 **Email:** amalapsenior@gmail.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/amal-a-p  
+- 🌐 **Portfolio:** https://amal862001.github.io  
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ *Thanks for visiting my profile — feel free to explore my work and connect!*
