@@ -1,6 +1,6 @@
 # Hi, I'm Amal A P 👋
 
-🎯 **Data Scientist | Machine Learning & GenAI Engineer**  
+🎯 **Data Science | Machine Learning & GenAI**  
 💡 Building scalable, cost-efficient, real-world AI solutions  
 📍 India  
 
